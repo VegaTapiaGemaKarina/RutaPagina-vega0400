@@ -17,3 +17,11 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+- ## Resultado de Ejemplo RutaPagina
+- ![image](https://github.com/VegaTapiaGemaKarina/RutaPagina-vega0400/assets/144732543/2f97fd30-c983-426c-bfe2-c3c92aa559b1)
+- ![image](https://github.com/VegaTapiaGemaKarina/RutaPagina-vega0400/assets/144732543/38f44c0c-7502-4366-ad73-330e03fd279f)
+- ![image](https://github.com/VegaTapiaGemaKarina/RutaPagina-vega0400/assets/144732543/87ac3cbc-0352-4f04-b78b-dbabef420f63)
+
+
+
