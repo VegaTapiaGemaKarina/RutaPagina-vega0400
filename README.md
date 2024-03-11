@@ -17,7 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
-
+- ## Link de referencia
+- https://classroom.google.com/c/NjYyMDYzNDczODI5/a/NjY4NTI0Njk4Njc2/details
+- Gema Karina Vega Tapia: a.21308051280400@cbtis128.edu.mx
 - ## Resultado de Ejemplo RutaPagina
 - ![image](https://github.com/VegaTapiaGemaKarina/RutaPagina-vega0400/assets/144732543/2f97fd30-c983-426c-bfe2-c3c92aa559b1)
 - ![image](https://github.com/VegaTapiaGemaKarina/RutaPagina-vega0400/assets/144732543/38f44c0c-7502-4366-ad73-330e03fd279f)
